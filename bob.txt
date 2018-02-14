@@ -1,0 +1,15 @@
+This is bob's text file that will be split depending on how many times a user wishes.
+It will hopefully take that number that they choose and split this file into that many
+subsiquent files. So if a user chooses they want to make six files, it will take this one
+file and chop it into six equal parts. We will see if that works but for now let's hope
+for the best.
+sadlfjkdslfjsdflkjas;fs;flknsva;nslsdklnfsdaf
+sf;klsjdflksdanvsalvnk;asdv
+sdfjlkadsfkn;savknsavsd
+sfhsldaf;sdafuweiorqe;wjrqwn
+afo;asvn;avao;inwenavonwaef
+dasf;aewruqweoirp;qewnf;nknnvasvdsa
+fwoeiruqwperuwqeruwerpweiuas;kvnas;lkvnsad;kr1r4djjawavlmasd
+4
+dsflaskdfaiof;aewfwamf
+adsfano;iwaenv;oanvasdkf
